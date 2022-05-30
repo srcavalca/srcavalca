@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srcavalca
 - 👀 I’m interested in games and sports
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning programming no javascript
 - 💞️ I’m looking to collaborate on improve your company with my efficiency.
 - 📫 How to reach me at a house with my mother and my brother.
 
