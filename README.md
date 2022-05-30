@@ -1,7 +1,6 @@
 # Sobre mim
-- 👋 Hi, I’m @srcavalca
-- Meu email de contato: felipediaaa@hotmail.com
-- 👀 I’m interested in games and sports
-- 🌱 I’m currently learning programming in javascript and I intend to study other programming languages
-- 💞️ I’m looking to collaborate on improve your company with my efficiency.
-- 📫 How to reach me at a house with my mother and my brother.
+- 👋 Oi, e sou @srcavalca
+- Email de contato: felipediaaa@hotmail.com.
+- 👀 Eu tenho interesse em jogos eletrônicos e esportes.
+- 🌱 Eu atualmente estou aprendendo a programar na linguagem do javascript e pretendo aprender outras linguagens de programação também.
+- 💞️ Estou procurando espaço no mundo da tecnologia para alcançar meus objetivos, tanto financeiros, quanto pessoais.
